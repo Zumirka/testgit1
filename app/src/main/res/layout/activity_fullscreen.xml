@@ -45,6 +45,12 @@
                 android:text="@string/dummy_button" />
 
         </LinearLayout>
+
+        <CheckBox
+            android:text="5555"
+            android:layout_width="154dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBox" />
     </FrameLayout>
 
 </FrameLayout>
